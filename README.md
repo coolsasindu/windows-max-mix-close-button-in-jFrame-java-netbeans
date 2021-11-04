@@ -1,4 +1,5 @@
-#Java  Custom max mix close button in jFrame java netbeans  - windows (max mix close )button in jFrame java netbeans
+# Java  Custom max mix close button in jFrame java netbeans
+- windows (max mix close )button in jFrame java netbeans
 
 -----------------------------------------------------------------------------------------------------------------
 |               🔥       Don't Click This Link: https://bit.ly/3v8PLxm                        |
